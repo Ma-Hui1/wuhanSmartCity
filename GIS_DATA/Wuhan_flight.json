@@ -1,0 +1,1622 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [113.280637, 23.125178]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3345",
+        "beginTime": "2023-07-25 15:00",
+        "endTime": "2023-07-25 16:45",
+        "useTime": "01小时45分钟",
+        "park": "335",
+        "gateDisp": "35",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "广州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [87.617733, 43.792818]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2613",
+        "beginTime": "2023-07-25 15:05",
+        "endTime": "2023-07-25 19:35",
+        "useTime": "04小时30分钟",
+        "park": "311",
+        "gateDisp": "11",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "乌鲁木齐"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [116.418757, 39.917544]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ8832",
+        "beginTime": "2023-07-25 15:07",
+        "endTime": "2023-07-25 17:12",
+        "useTime": "02小时05分钟",
+        "park": "345",
+        "gateDisp": "45",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "北京大兴"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [100.234412, 26.872229]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ6291",
+        "beginTime": "2023-07-25 15:09",
+        "endTime": "2023-07-25 19:44",
+        "useTime": "04小时35分钟",
+        "park": "341",
+        "gateDisp": "41",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "丽江"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [119.457703, 35.426152]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2481",
+        "beginTime": "2023-07-25 15:12",
+        "endTime": "2023-07-25 16:37",
+        "useTime": "01小时25分钟",
+        "park": "317",
+        "gateDisp": "17",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "日照"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [118.087828, 24.462059]
+        ]
+      },
+      "properties": {
+        "lineName": "SC2218",
+        "beginTime": "2023-07-25 15:21",
+        "endTime": "2023-07-25 17:11",
+        "useTime": "01小时50分钟",
+        "park": "312",
+        "gateDisp": "12",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "厦门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [118.087828, 24.462059]
+        ]
+      },
+      "properties": {
+        "lineName": "CA4716",
+        "beginTime": "2023-07-25 15:21",
+        "endTime": "2023-07-25 17:11",
+        "useTime": "01小时50分钟",
+        "park": "312",
+        "gateDisp": "12",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "厦门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [118.087828, 24.462059]
+        ]
+      },
+      "properties": {
+        "lineName": "ZH2580",
+        "beginTime": "2023-07-25 15:21",
+        "endTime": "2023-07-25 17:11",
+        "useTime": "01小时50分钟",
+        "park": "312",
+        "gateDisp": "12",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "厦门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [118.087828, 24.462059]
+        ]
+      },
+      "properties": {
+        "lineName": "TV6920",
+        "beginTime": "2023-07-25 15:21",
+        "endTime": "2023-07-25 17:11",
+        "useTime": "01小时50分钟",
+        "park": "312",
+        "gateDisp": "12",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "厦门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [118.087828, 24.462059]
+        ]
+      },
+      "properties": {
+        "lineName": "G58490",
+        "beginTime": "2023-07-25 15:21",
+        "endTime": "2023-07-25 17:11",
+        "useTime": "01小时50分钟",
+        "park": "312",
+        "gateDisp": "12",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "厦门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [102.712251, 25.040609]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3469",
+        "beginTime": "2023-07-25 15:23",
+        "endTime": "2023-07-25 17:43",
+        "useTime": "02小时20分钟",
+        "park": "351",
+        "gateDisp": "51",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "昆明"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [109.486761, 30.282406]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3842",
+        "beginTime": "2023-07-25 15:25",
+        "endTime": "2023-07-25 16:35",
+        "useTime": "01小时10分钟",
+        "park": "340",
+        "gateDisp": "40",
+        "terminal": "T3",
+        "status": "登机结束",
+        "destAirportName": "恩施"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [113.55027, 22.271249]
+        ]
+      },
+      "properties": {
+        "lineName": "Y87583",
+        "beginTime": "2023-07-25 15:27",
+        "endTime": "2023-07-25 17:17",
+        "useTime": "01小时50分钟",
+        "park": "306",
+        "gateDisp": "06",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "珠海"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [104.065735, 30.659462]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2611",
+        "beginTime": "2023-07-25 15:30",
+        "endTime": "2023-07-25 17:45",
+        "useTime": "02小时15分钟",
+        "park": "327",
+        "gateDisp": "27",
+        "terminal": "T3",
+        "status": "登机结束",
+        "destAirportName": "成都天府"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [86.145948, 41.763122]
+        ]
+      },
+      "properties": {
+        "lineName": "CA8271",
+        "beginTime": "2023-07-26 08:00",
+        "endTime": "2023-07-26 14:00",
+        "useTime": "06小时00分钟",
+        "park": "360",
+        "gateDisp": "60",
+        "terminal": "T3",
+        "status": "登机",
+        "destAirportName": "库尔勒"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [86.145948, 41.763122]
+        ]
+      },
+      "properties": {
+        "lineName": "ZH4661",
+        "beginTime": "2023-07-26 08:00",
+        "endTime": "2023-07-26 14:00",
+        "useTime": "06小时00分钟",
+        "park": "360",
+        "gateDisp": "60",
+        "terminal": "T3",
+        "status": "登机",
+        "destAirportName": "库尔勒"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [121.618622, 38.91459]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2517",
+        "beginTime": "2023-07-26 08:00",
+        "endTime": "2023-07-26 11:55",
+        "useTime": "03小时55分钟",
+        "park": "313",
+        "gateDisp": "13",
+        "terminal": "T3",
+        "status": "登机结束",
+        "destAirportName": "大连"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [116.418757, 39.917544]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3117",
+        "beginTime": "2023-07-26 08:00",
+        "endTime": "2023-07-26 10:05",
+        "useTime": "02小时05分钟",
+        "park": "348",
+        "gateDisp": "48",
+        "terminal": "T3",
+        "status": "登机结束",
+        "destAirportName": "北京大兴"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [125.97, 47.58]
+        ]
+      },
+      "properties": {
+        "lineName": "CA8225",
+        "beginTime": "2023-07-26 08:05",
+        "endTime": "2023-07-26 13:05",
+        "useTime": "05小时00分钟",
+        "park": "357",
+        "gateDisp": "57",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "大庆"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [125.97, 47.58]
+        ]
+      },
+      "properties": {
+        "lineName": "ZH4633",
+        "beginTime": "2023-07-26 08:05",
+        "endTime": "2023-07-26 13:05",
+        "useTime": "05小时00分钟",
+        "park": "357",
+        "gateDisp": "57",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "大庆"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [125.97, 47.58]
+        ]
+      },
+      "properties": {
+        "lineName": "ZH4715",
+        "beginTime": "2023-07-26 08:05",
+        "endTime": "2023-07-26 13:05",
+        "useTime": "05小时00分钟",
+        "park": "357",
+        "gateDisp": "57",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "大庆"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [87.617733, 43.792818]
+        ]
+      },
+      "properties": {
+        "lineName": "GS7592",
+        "beginTime": "2023-07-26 08:09",
+        "endTime": "2023-07-26 12:24",
+        "useTime": "04小时15分钟",
+        "park": "308",
+        "gateDisp": "08",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "乌鲁木齐"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [122.108496, 30.016423]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2623",
+        "beginTime": "2023-07-26 08:11",
+        "endTime": "2023-07-26 09:51",
+        "useTime": "01小时40分钟",
+        "park": "309",
+        "gateDisp": "09",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "舟山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [125.3245, 43.886841]
+        ]
+      },
+      "properties": {
+        "lineName": "CA8223",
+        "beginTime": "2023-07-26 08:13",
+        "endTime": "2023-07-26 12:43",
+        "useTime": "04小时30分钟",
+        "park": "345",
+        "gateDisp": "45",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "长春"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [125.3245, 43.886841]
+        ]
+      },
+      "properties": {
+        "lineName": "ZH4713",
+        "beginTime": "2023-07-26 08:13",
+        "endTime": "2023-07-26 12:43",
+        "useTime": "04小时30分钟",
+        "park": "345",
+        "gateDisp": "45",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "长春"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [125.3245, 43.886841]
+        ]
+      },
+      "properties": {
+        "lineName": "SC5173",
+        "beginTime": "2023-07-26 08:13",
+        "endTime": "2023-07-26 12:43",
+        "useTime": "04小时30分钟",
+        "park": "345",
+        "gateDisp": "45",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "长春"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [87.617733, 43.792818]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ8403",
+        "beginTime": "2023-07-26 08:15",
+        "endTime": "2023-07-26 12:55",
+        "useTime": "04小时40分钟",
+        "park": "342",
+        "gateDisp": "42",
+        "terminal": "T3",
+        "status": "登机结束",
+        "destAirportName": "乌鲁木齐"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [113.156924, 22.979605]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ8425",
+        "beginTime": "2023-07-26 08:15",
+        "endTime": "2023-07-26 10:05",
+        "useTime": "01小时50分钟",
+        "park": "337",
+        "gateDisp": "37",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "潮汕"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [104.065735, 30.659462]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3447",
+        "beginTime": "2023-07-26 08:22",
+        "endTime": "2023-07-26 10:27",
+        "useTime": "02小时05分钟",
+        "park": "346",
+        "gateDisp": "46",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "成都天府"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [121.490317, 31.222771]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3823",
+        "beginTime": "2023-07-26 08:23",
+        "endTime": "2023-07-26 10:03",
+        "useTime": "01小时40分钟",
+        "park": "347",
+        "gateDisp": "47",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "上海浦东"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [123.429096, 41.796767]
+        ]
+      },
+      "properties": {
+        "lineName": "CA8247",
+        "beginTime": "2023-07-26 08:25",
+        "endTime": "2023-07-26 10:55",
+        "useTime": "02小时30分钟",
+        "park": "354",
+        "gateDisp": "54",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "沈阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [123.429096, 41.796767]
+        ]
+      },
+      "properties": {
+        "lineName": "ZH4649",
+        "beginTime": "2023-07-26 08:25",
+        "endTime": "2023-07-26 10:55",
+        "useTime": "02小时30分钟",
+        "park": "354",
+        "gateDisp": "54",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "沈阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [112.549248, 37.857014]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ8667",
+        "beginTime": "2023-07-26 08:25",
+        "endTime": "2023-07-26 10:15",
+        "useTime": "01小时50分钟",
+        "park": "334",
+        "gateDisp": "34",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "太原"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [121.490317, 31.222771]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2501",
+        "beginTime": "2023-07-26 08:27",
+        "endTime": "2023-07-26 10:02",
+        "useTime": "01小时35分钟",
+        "park": "327",
+        "gateDisp": "27",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "上海虹桥"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [110.33119, 20.031971]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3341",
+        "beginTime": "2023-07-26 08:28",
+        "endTime": "2023-07-26 12:28",
+        "useTime": "04小时00分钟",
+        "park": "349",
+        "gateDisp": "49",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "海口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [116.418757, 39.917544]
+        ]
+      },
+      "properties": {
+        "lineName": "CA8201",
+        "beginTime": "2023-07-26 08:30",
+        "endTime": "2023-07-26 10:25",
+        "useTime": "01小时55分钟",
+        "park": "350",
+        "gateDisp": "50",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "北京首都"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [116.418757, 39.917544]
+        ]
+      },
+      "properties": {
+        "lineName": "LH7110",
+        "beginTime": "2023-07-26 08:30",
+        "endTime": "2023-07-26 10:25",
+        "useTime": "01小时55分钟",
+        "park": "350",
+        "gateDisp": "50",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "北京首都"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [116.418757, 39.917544]
+        ]
+      },
+      "properties": {
+        "lineName": "UA7598",
+        "beginTime": "2023-07-26 08:30",
+        "endTime": "2023-07-26 10:25",
+        "useTime": "01小时55分钟",
+        "park": "350",
+        "gateDisp": "50",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "北京首都"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [116.418757, 39.917544]
+        ]
+      },
+      "properties": {
+        "lineName": "AC6643",
+        "beginTime": "2023-07-26 08:30",
+        "endTime": "2023-07-26 10:25",
+        "useTime": "01小时55分钟",
+        "park": "350",
+        "gateDisp": "50",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "北京首都"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [108.948024, 34.263161]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ8529",
+        "beginTime": "2023-07-26 08:30",
+        "endTime": "2023-07-26 10:10",
+        "useTime": "01小时40分钟",
+        "park": "332R",
+        "gateDisp": "32",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "西安"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [98.511155, 39.743858]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2491",
+        "beginTime": "2023-07-26 08:34",
+        "endTime": "2023-07-26 13:54",
+        "useTime": "05小时20分钟",
+        "park": "303",
+        "gateDisp": "03",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "敦煌"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [111.052326, 40.265653]
+        ]
+      },
+      "properties": {
+        "lineName": "CA8255",
+        "beginTime": "2023-07-26 08:35",
+        "endTime": "2023-07-26 10:40",
+        "useTime": "02小时05分钟",
+        "park": "356",
+        "gateDisp": "56",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "呼和浩特"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [111.052326, 40.265653]
+        ]
+      },
+      "properties": {
+        "lineName": "ZH4737",
+        "beginTime": "2023-07-26 08:35",
+        "endTime": "2023-07-26 10:40",
+        "useTime": "02小时05分钟",
+        "park": "356",
+        "gateDisp": "56",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "呼和浩特"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [113.280637, 23.125178]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3368",
+        "beginTime": "2023-07-26 08:36",
+        "endTime": "2023-07-26 10:26",
+        "useTime": "01小时50分钟",
+        "park": "338",
+        "gateDisp": "38",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "广州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [116.418757, 39.917544]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2451",
+        "beginTime": "2023-07-26 08:40",
+        "endTime": "2023-07-26 10:35",
+        "useTime": "01小时55分钟",
+        "park": "314",
+        "gateDisp": "14",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "北京大兴"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [113.55027, 22.271249]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3752",
+        "beginTime": "2023-07-26 08:41",
+        "endTime": "2023-07-26 10:36",
+        "useTime": "01小时55分钟",
+        "park": "331R",
+        "gateDisp": "31",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "珠海"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [109.74791, 38.299267]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2628",
+        "beginTime": "2023-07-26 08:45",
+        "endTime": "2023-07-26 10:45",
+        "useTime": "02小时00分钟",
+        "park": "323",
+        "gateDisp": "23",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "榆林"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [110.361634, 21.273365]
+        ]
+      },
+      "properties": {
+        "lineName": "CA8253",
+        "beginTime": "2023-07-26 08:50",
+        "endTime": "2023-07-26 11:20",
+        "useTime": "02小时30分钟",
+        "park": "351",
+        "gateDisp": "51",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "湛江"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [110.361634, 21.273365]
+        ]
+      },
+      "properties": {
+        "lineName": "ZH4653",
+        "beginTime": "2023-07-26 08:50",
+        "endTime": "2023-07-26 11:20",
+        "useTime": "02小时30分钟",
+        "park": "351",
+        "gateDisp": "51",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "湛江"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [118.507543, 37.461567]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2621",
+        "beginTime": "2023-07-26 08:50",
+        "endTime": "2023-07-26 10:45",
+        "useTime": "01小时55分钟",
+        "park": "317",
+        "gateDisp": "17",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "东营"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [126.642464, 45.756967]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3631",
+        "beginTime": "2023-07-26 08:54",
+        "endTime": "2023-07-26 14:04",
+        "useTime": "05小时10分钟",
+        "park": "344",
+        "gateDisp": "44",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "哈尔滨"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [114.123885, 22.555341]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ8578",
+        "beginTime": "2023-07-26 08:55",
+        "endTime": "2023-07-26 10:45",
+        "useTime": "01小时50分钟",
+        "park": "331L",
+        "gateDisp": "31A",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "深圳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [104.065735, 30.659462]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2653",
+        "beginTime": "2023-07-26 09:00",
+        "endTime": "2023-07-26 10:55",
+        "useTime": "01小时55分钟",
+        "park": "310",
+        "gateDisp": "10",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "成都天府"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [81.316343, 43.922209]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ6223",
+        "beginTime": "2023-07-26 09:00",
+        "endTime": "2023-07-26 14:20",
+        "useTime": "05小时20分钟",
+        "park": "332L",
+        "gateDisp": "32A",
+        "terminal": "T3",
+        "status": "登机",
+        "destAirportName": "伊宁"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [109.760778, 18.407516]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ8408",
+        "beginTime": "2023-07-26 09:02",
+        "endTime": "2023-07-26 11:47",
+        "useTime": "02小时45分钟",
+        "park": "341",
+        "gateDisp": "41",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "三亚"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [114.123885, 22.555341]
+        ]
+      },
+      "properties": {
+        "lineName": "CA8233",
+        "beginTime": "2023-07-26 09:04",
+        "endTime": "2023-07-26 10:54",
+        "useTime": "01小时50分钟",
+        "park": "359",
+        "gateDisp": "59",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "深圳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [106.713478, 26.578343]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2603",
+        "beginTime": "2023-07-26 09:06",
+        "endTime": "2023-07-26 12:11",
+        "useTime": "03小时05分钟",
+        "park": "321",
+        "gateDisp": "21",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "贵阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [116.418757, 39.917544]
+        ]
+      },
+      "properties": {
+        "lineName": "CA8229",
+        "beginTime": "2023-07-26 09:11",
+        "endTime": "2023-07-26 13:06",
+        "useTime": "03小时55分钟",
+        "park": "355",
+        "gateDisp": "55",
+        "terminal": "T3",
+        "status": "起飞",
+        "destAirportName": "北京首都"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [119.306239, 26.075302]
+        ]
+      },
+      "properties": {
+        "lineName": "PN6219",
+        "beginTime": "2023-07-26 09:15",
+        "endTime": "2023-07-26 10:50",
+        "useTime": "01小时35分钟",
+        "park": "304",
+        "gateDisp": "04",
+        "terminal": "T3",
+        "status": "登机结束",
+        "destAirportName": "福州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [108.948024, 34.263161]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2126",
+        "beginTime": "2023-07-26 09:20",
+        "endTime": "2023-07-26 10:55",
+        "useTime": "01小时35分钟",
+        "park": "319",
+        "gateDisp": "19",
+        "terminal": "T3",
+        "status": "催促登机",
+        "destAirportName": "西安"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [114.154373, 22.281981]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3075",
+        "beginTime": "2023-07-26 09:20",
+        "endTime": "2023-07-26 11:40",
+        "useTime": "02小时20分钟",
+        "park": "333",
+        "gateDisp": "333",
+        "terminal": null,
+        "status": "登机结束",
+        "destAirportName": "香港"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [110.05203, 40.627255]
+        ]
+      },
+      "properties": {
+        "lineName": "CA8275",
+        "beginTime": "2023-07-26 09:25",
+        "endTime": "2023-07-26 11:40",
+        "useTime": "02小时15分钟",
+        "park": "103",
+        "gateDisp": "802",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "包头"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [110.05203, 40.627255]
+        ]
+      },
+      "properties": {
+        "lineName": "G58256",
+        "beginTime": "2023-07-26 09:25",
+        "endTime": "2023-07-26 11:40",
+        "useTime": "02小时15分钟",
+        "park": "103",
+        "gateDisp": "802",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "包头"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [110.05203, 40.627255]
+        ]
+      },
+      "properties": {
+        "lineName": "ZH4663",
+        "beginTime": "2023-07-26 09:25",
+        "endTime": "2023-07-26 11:40",
+        "useTime": "02小时15分钟",
+        "park": "103",
+        "gateDisp": "802",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "包头"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [120.674231, 28.003352]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2529",
+        "beginTime": "2023-07-26 09:30",
+        "endTime": "2023-07-26 11:00",
+        "useTime": "01小时30分钟",
+        "park": "320",
+        "gateDisp": "20",
+        "terminal": "T3",
+        "status": "催促登机",
+        "destAirportName": "温州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [82.072237, 44.903087]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ6633",
+        "beginTime": "2023-07-26 09:30",
+        "endTime": "2023-07-26 16:05",
+        "useTime": "06小时35分钟",
+        "park": "352",
+        "gateDisp": "52",
+        "terminal": "T3",
+        "status": "催促登机",
+        "destAirportName": "博乐"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [121.385877, 37.540925]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2631",
+        "beginTime": "2023-07-26 09:40",
+        "endTime": "2023-07-26 11:50",
+        "useTime": "02小时10分钟",
+        "park": "328",
+        "gateDisp": "28",
+        "terminal": "T3",
+        "status": "催促登机",
+        "destAirportName": "烟台"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [113.141044, 40.258269]
+        ]
+      },
+      "properties": {
+        "lineName": "MU6733",
+        "beginTime": "2023-07-26 09:40",
+        "endTime": "2023-07-26 11:55",
+        "useTime": "02小时15分钟",
+        "park": "326",
+        "gateDisp": "26",
+        "terminal": "T3",
+        "status": "登机结束",
+        "destAirportName": "大同"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [118.087828, 24.462059]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3841",
+        "beginTime": "2023-07-26 09:40",
+        "endTime": "2023-07-26 11:20",
+        "useTime": "01小时40分钟",
+        "park": "343",
+        "gateDisp": "43",
+        "terminal": "T3",
+        "status": "催促登机",
+        "destAirportName": "厦门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [112.549248, 37.857014]
+        ]
+      },
+      "properties": {
+        "lineName": "SC2217",
+        "beginTime": "2023-07-26 09:45",
+        "endTime": "2023-07-26 11:15",
+        "useTime": "01小时30分钟",
+        "park": "301",
+        "gateDisp": "01",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "太原"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [103.823557, 36.058039]
+        ]
+      },
+      "properties": {
+        "lineName": "CZ3759",
+        "beginTime": "2023-07-26 09:45",
+        "endTime": "2023-07-26 12:00",
+        "useTime": "02小时15分钟",
+        "park": "345",
+        "gateDisp": "45",
+        "terminal": "T3",
+        "status": "催促登机",
+        "destAirportName": "兰州"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [106.084091, 30.795572]
+        ]
+      },
+      "properties": {
+        "lineName": "MF8485",
+        "beginTime": "2023-07-26 09:50",
+        "endTime": "2023-07-26 11:15",
+        "useTime": "01小时25分钟",
+        "park": "340",
+        "gateDisp": "40",
+        "terminal": "T3",
+        "status": "催促登机",
+        "destAirportName": "南充"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [119.764923, 49.213889]
+        ]
+      },
+      "properties": {
+        "lineName": "MF8121",
+        "beginTime": "2023-07-26 09:55",
+        "endTime": "2023-07-26 13:05",
+        "useTime": "03小时10分钟",
+        "park": "344",
+        "gateDisp": "44",
+        "terminal": "T3",
+        "status": "值机截止",
+        "destAirportName": "海拉尔"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [106.278179, 38.46637]
+        ]
+      },
+      "properties": {
+        "lineName": "SC7942",
+        "beginTime": "2023-07-26 09:55",
+        "endTime": "2023-07-26 11:55",
+        "useTime": "02小时00分钟",
+        "park": "302",
+        "gateDisp": "02",
+        "terminal": "T3",
+        "status": "登机",
+        "destAirportName": "银川"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [104.740971, 31.463557]
+        ]
+      },
+      "properties": {
+        "lineName": "MF8619",
+        "beginTime": "2023-07-26 09:55",
+        "endTime": "2023-07-26 11:45",
+        "useTime": "01小时50分钟",
+        "park": "349",
+        "gateDisp": "49",
+        "terminal": "T3",
+        "status": "登机",
+        "destAirportName": "绵阳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [100.454862, 38.931774]
+        ]
+      },
+      "properties": {
+        "lineName": "MU2467",
+        "beginTime": "2023-07-26 10:00",
+        "endTime": "2023-07-26 14:30",
+        "useTime": "04小时30分钟",
+        "park": "306",
+        "gateDisp": "06",
+        "terminal": "T3",
+        "status": "登机",
+        "destAirportName": "张掖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [114.216738, 30.770787],
+          [108.320004, 22.82402]
+        ]
+      },
+      "properties": {
+        "lineName": "MF8331",
+        "beginTime": "2023-07-26 10:05",
+        "endTime": "2023-07-26 12:10",
+        "useTime": "02小时05分钟",
+        "park": "336",
+        "gateDisp": "36",
+        "terminal": "T3",
+        "status": "正在值机",
+        "destAirportName": "南宁"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3569 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.329481, 30.711953]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "汉口北"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.342372, 30.684553]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "滠口新城"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.341474, 30.674527]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "滕子岗"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.338273, 30.665863]
+      },
+      "properties": {
+        "station_num": "4",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "堤角"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.334533, 30.655893]
+      },
+      "properties": {
+        "station_num": "5",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "新荣"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.330017, 30.643386]
+      },
+      "properties": {
+        "station_num": "6",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "丹水池"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.322936, 30.631171]
+      },
+      "properties": {
+        "station_num": "7",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "徐州新村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.318749, 30.625032]
+      },
+      "properties": {
+        "station_num": "8",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "二七路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.313923, 30.617818]
+      },
+      "properties": {
+        "station_num": "9",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "头道街"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.308156, 30.608404]
+      },
+      "properties": {
+        "station_num": "10",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "黄浦路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.301348, 30.598718]
+      },
+      "properties": {
+        "station_num": "11",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "三阳路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.294967, 30.592506]
+      },
+      "properties": {
+        "station_num": "12",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "大智路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.286831, 30.585307]
+      },
+      "properties": {
+        "station_num": "13",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "循礼门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.278415, 30.580865]
+      },
+      "properties": {
+        "station_num": "14",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "友谊路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.270119, 30.577433]
+      },
+      "properties": {
+        "station_num": "15",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "利济北路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.261901, 30.573909]
+      },
+      "properties": {
+        "station_num": "16",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "崇仁路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.250444, 30.571547]
+      },
+      "properties": {
+        "station_num": "17",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "硚口路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.240741, 30.574025]
+      },
+      "properties": {
+        "station_num": "18",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "太平洋"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.226424, 30.580526]
+      },
+      "properties": {
+        "station_num": "19",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "宗关"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.218822, 30.585491]
+      },
+      "properties": {
+        "station_num": "20",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "汉西一路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.211532, 30.589347]
+      },
+      "properties": {
+        "station_num": "21",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "古田四路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.20474, 30.593382]
+      },
+      "properties": {
+        "station_num": "22",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "古田三路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.196667, 30.597536]
+      },
+      "properties": {
+        "station_num": "23",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "古田二路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.183062, 30.604521]
+      },
+      "properties": {
+        "station_num": "24",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "古田一路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.169464, 30.609907]
+      },
+      "properties": {
+        "station_num": "25",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "舵落口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.163868, 30.615064]
+      },
+      "properties": {
+        "station_num": "26",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "竹叶海"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.155941, 30.61846]
+      },
+      "properties": {
+        "station_num": "27",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "额头湾"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.138907, 30.617699]
+      },
+      "properties": {
+        "station_num": "28",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "五环大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.128567, 30.624968]
+      },
+      "properties": {
+        "station_num": "29",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "东吴大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.123644, 30.631684]
+      },
+      "properties": {
+        "station_num": "30",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "码头潭公园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.120804, 30.649056]
+      },
+      "properties": {
+        "station_num": "31",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "三店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.120828, 30.659055]
+      },
+      "properties": {
+        "station_num": "32",
+        "line_name": "轨道交通1号线(汉口北--径河)",
+        "station_name": "径河"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.660675, 30.48932]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "葛店南站"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.620662, 30.488119]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "左岭"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.605998, 30.48645]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "未来三路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.585145, 30.484577]
+      },
+      "properties": {
+        "station_num": "4",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "未来一路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.563156, 30.487628]
+      },
+      "properties": {
+        "station_num": "5",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "长岭山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.534098, 30.488447]
+      },
+      "properties": {
+        "station_num": "6",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "光谷七路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.522905, 30.488736]
+      },
+      "properties": {
+        "station_num": "7",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "豹澥"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.512862, 30.485028]
+      },
+      "properties": {
+        "station_num": "8",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "光谷六路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.50296, 30.485103]
+      },
+      "properties": {
+        "station_num": "9",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "光谷五路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.492018, 30.489155]
+      },
+      "properties": {
+        "station_num": "10",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "光谷四路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.481231, 30.48761]
+      },
+      "properties": {
+        "station_num": "11",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "光谷生物园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.466409, 30.485267]
+      },
+      "properties": {
+        "station_num": "12",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "光谷同济医院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.448734, 30.487938]
+      },
+      "properties": {
+        "station_num": "13",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "湖口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.433896, 30.486718]
+      },
+      "properties": {
+        "station_num": "14",
+        "line_name": "轨道交通11号线(葛店南站--武汉东站)",
+        "station_name": "武汉东站"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.235797, 30.504431]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "国博中心南"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.225922, 30.49291]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "老关村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.220062, 30.476763]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "南太子湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.20521, 30.462005]
+      },
+      "properties": {
+        "station_num": "4",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "沌口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.158383, 30.404752]
+      },
+      "properties": {
+        "station_num": "5",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "小军山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.14481, 30.389468]
+      },
+      "properties": {
+        "station_num": "6",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "枫林"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.132829, 30.375526]
+      },
+      "properties": {
+        "station_num": "7",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "大军山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.093695, 30.358558]
+      },
+      "properties": {
+        "station_num": "8",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "桂子湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.068792, 30.341694]
+      },
+      "properties": {
+        "station_num": "9",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "马影河"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.059869, 30.332275]
+      },
+      "properties": {
+        "station_num": "10",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "协子河"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.047088, 30.323551]
+      },
+      "properties": {
+        "station_num": "11",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "湾湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.035102, 30.30459]
+      },
+      "properties": {
+        "station_num": "12",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "周家河"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.052174, 30.280258]
+      },
+      "properties": {
+        "station_num": "13",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "纱帽"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.062984, 30.269699]
+      },
+      "properties": {
+        "station_num": "14",
+        "line_name": "轨道交通16号线(国博中心南--通航机场)",
+        "station_name": "通航机场"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.216618, 30.770624]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "天河机场"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.227261, 30.732481]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "航空总部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.237299, 30.723137]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "宋家岗"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.253845, 30.711596]
+      },
+      "properties": {
+        "station_num": "4",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "巨龙大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.259544, 30.700235]
+      },
+      "properties": {
+        "station_num": "5",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "盘龙城"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.277759, 30.670353]
+      },
+      "properties": {
+        "station_num": "6",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "宏图大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.25506, 30.658775]
+      },
+      "properties": {
+        "station_num": "7",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "常青城"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.242807, 30.650412]
+      },
+      "properties": {
+        "station_num": "8",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "金银潭"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.242435, 30.640564]
+      },
+      "properties": {
+        "station_num": "9",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "常青花园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.246021, 30.627168]
+      },
+      "properties": {
+        "station_num": "10",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "长港路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.254961, 30.615485]
+      },
+      "properties": {
+        "station_num": "11",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "汉口火车站"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.260297, 30.606028]
+      },
+      "properties": {
+        "station_num": "12",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "范湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.263288, 30.594245]
+      },
+      "properties": {
+        "station_num": "13",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "王家墩东"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.264757, 30.585762]
+      },
+      "properties": {
+        "station_num": "14",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "青年路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.272845, 30.581962]
+      },
+      "properties": {
+        "station_num": "15",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "中山公园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.285992, 30.585234]
+      },
+      "properties": {
+        "station_num": "16",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "循礼门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.292306, 30.579581]
+      },
+      "properties": {
+        "station_num": "17",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "江汉路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.308679, 30.561284]
+      },
+      "properties": {
+        "station_num": "18",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "积玉桥"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.317476, 30.553333]
+      },
+      "properties": {
+        "station_num": "19",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "螃蟹岬"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.32652, 30.551108]
+      },
+      "properties": {
+        "station_num": "20",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "小龟山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.33598, 30.545667]
+      },
+      "properties": {
+        "station_num": "21",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "洪山广场"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.332959, 30.537528]
+      },
+      "properties": {
+        "station_num": "22",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "中南路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.341206, 30.530349]
+      },
+      "properties": {
+        "station_num": "23",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "宝通寺"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.36918, 30.53446]
+      },
+      "properties": {
+        "station_num": "24",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "街道口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.364207, 30.522437]
+      },
+      "properties": {
+        "station_num": "25",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "广埠屯"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.370478, 30.512359]
+      },
+      "properties": {
+        "station_num": "26",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "虎泉"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.382732, 30.505122]
+      },
+      "properties": {
+        "station_num": "27",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "杨家湾"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.399663, 30.506119]
+      },
+      "properties": {
+        "station_num": "28",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "光谷广场"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.404846, 30.50688]
+      },
+      "properties": {
+        "station_num": "29",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "珞雄路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.414237, 30.50741]
+      },
+      "properties": {
+        "station_num": "30",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "华中科技大学"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.423817, 30.506535]
+      },
+      "properties": {
+        "station_num": "31",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "光谷大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.430905, 30.500021]
+      },
+      "properties": {
+        "station_num": "32",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "佳园路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.431755, 30.486956]
+      },
+      "properties": {
+        "station_num": "33",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "武汉东站"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.430183, 30.477512]
+      },
+      "properties": {
+        "station_num": "34",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "黄龙山路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.420416, 30.461963]
+      },
+      "properties": {
+        "station_num": "35",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "金融港北"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.421034, 30.447747]
+      },
+      "properties": {
+        "station_num": "36",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "秀湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.429655, 30.437026]
+      },
+      "properties": {
+        "station_num": "37",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "藏龙东街"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.439777, 30.438671]
+      },
+      "properties": {
+        "station_num": "38",
+        "line_name": "轨道交通2号线(天河机场--佛祖岭)",
+        "station_name": "佛祖岭"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.306323, 30.650979]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通21号线(阳逻线)二期(后湖大道--中一路)",
+        "station_name": "后湖大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.296165, 30.646119]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通21号线(阳逻线)二期(后湖大道--中一路)",
+        "station_name": "新春"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.280461, 30.6379]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通21号线(阳逻线)二期(后湖大道--中一路)",
+        "station_name": "中一路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.619116, 30.713671]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "金台"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.600916, 30.706234]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "施岗"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.567772, 30.701603]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "阳逻开发区"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.553039, 30.703571]
+      },
+      "properties": {
+        "station_num": "4",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "阳逻"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.525709, 30.708536]
+      },
+      "properties": {
+        "station_num": "5",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "武生院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.515236, 30.709985]
+      },
+      "properties": {
+        "station_num": "6",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "军民村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.477733, 30.709197]
+      },
+      "properties": {
+        "station_num": "7",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "沙口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.42999, 30.707017]
+      },
+      "properties": {
+        "station_num": "8",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "武湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.40904, 30.713601]
+      },
+      "properties": {
+        "station_num": "9",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "高车"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.390414, 30.70546]
+      },
+      "properties": {
+        "station_num": "10",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "青龙"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.37312, 30.683869]
+      },
+      "properties": {
+        "station_num": "11",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "谌家矶"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.364654, 30.680146]
+      },
+      "properties": {
+        "station_num": "12",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "朱家河"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.344101, 30.672102]
+      },
+      "properties": {
+        "station_num": "13",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "幸福湾"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.332763, 30.657595]
+      },
+      "properties": {
+        "station_num": "14",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "新荣"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.315485, 30.654377]
+      },
+      "properties": {
+        "station_num": "15",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "百步亭花园路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.306323, 30.650979]
+      },
+      "properties": {
+        "station_num": "16",
+        "line_name": "轨道交通21号线(阳逻线)(金台--后湖大道)",
+        "station_name": "后湖大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.306323, 30.650979]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通21号线(阳逻线)二期(后湖大道--中一路)",
+        "station_name": "后湖大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.296165, 30.646119]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通21号线(阳逻线)二期(后湖大道--中一路)",
+        "station_name": "新春"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.280461, 30.6379]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通21号线(阳逻线)二期(后湖大道--中一路)",
+        "station_name": "中一路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.157139, 30.489376]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "沌阳大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.166088, 30.500107]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "东风公司"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.170981, 30.506039]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "体育中心"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.179686, 30.516507]
+      },
+      "properties": {
+        "station_num": "4",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "三角湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.189057, 30.527807]
+      },
+      "properties": {
+        "station_num": "5",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "汉阳客运站"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.194631, 30.535228]
+      },
+      "properties": {
+        "station_num": "6",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "四新大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.201851, 30.545591]
+      },
+      "properties": {
+        "station_num": "7",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "陶家岭"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.206329, 30.552879]
+      },
+      "properties": {
+        "station_num": "8",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "龙阳村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.209641, 30.560785]
+      },
+      "properties": {
+        "station_num": "9",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "王家湾"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.224975, 30.580306]
+      },
+      "properties": {
+        "station_num": "10",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "宗关"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.232026, 30.58666]
+      },
+      "properties": {
+        "station_num": "11",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "双墩"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.246459, 30.595975]
+      },
+      "properties": {
+        "station_num": "12",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "武汉商务区"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.252144, 30.605164]
+      },
+      "properties": {
+        "station_num": "13",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "云飞路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.261118, 30.607701]
+      },
+      "properties": {
+        "station_num": "14",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "范湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.27579, 30.604121]
+      },
+      "properties": {
+        "station_num": "15",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "菱角湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.284769, 30.605235]
+      },
+      "properties": {
+        "station_num": "16",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "香港路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.291463, 30.612937]
+      },
+      "properties": {
+        "station_num": "17",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "惠济二路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.297076, 30.617866]
+      },
+      "properties": {
+        "station_num": "18",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "赵家条"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.303976, 30.623628]
+      },
+      "properties": {
+        "station_num": "19",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "罗家庄"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.307806, 30.628847]
+      },
+      "properties": {
+        "station_num": "20",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "二七小路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.30422, 30.641133]
+      },
+      "properties": {
+        "station_num": "21",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "兴业路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.304127, 30.650284]
+      },
+      "properties": {
+        "station_num": "22",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "后湖大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.296806, 30.661297]
+      },
+      "properties": {
+        "station_num": "23",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "市民之家"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.277759, 30.670353]
+      },
+      "properties": {
+        "station_num": "24",
+        "line_name": "轨道交通3号线(沌阳大道--宏图大道)",
+        "station_name": "宏图大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.424376, 30.607375]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "武汉火车站"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.416353, 30.6053]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "杨春湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.405848, 30.607996]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "工业四路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.38909, 30.605179]
+      },
+      "properties": {
+        "station_num": "4",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "仁和路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.378123, 30.600224]
+      },
+      "properties": {
+        "station_num": "5",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "园林路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.37154, 30.5928]
+      },
+      "properties": {
+        "station_num": "6",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "罗家港"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.368895, 30.583897]
+      },
+      "properties": {
+        "station_num": "7",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "铁机路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.36201, 30.577109]
+      },
+      "properties": {
+        "station_num": "8",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "岳家嘴"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.355809, 30.570267]
+      },
+      "properties": {
+        "station_num": "9",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "东亭"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.349884, 30.56372]
+      },
+      "properties": {
+        "station_num": "10",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "青鱼嘴"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.341415, 30.553848]
+      },
+      "properties": {
+        "station_num": "11",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "楚河汉街"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.336957, 30.545217]
+      },
+      "properties": {
+        "station_num": "12",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "洪山广场"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.332959, 30.537528]
+      },
+      "properties": {
+        "station_num": "13",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "中南路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.326149, 30.530916]
+      },
+      "properties": {
+        "station_num": "14",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "梅苑小区"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.316449, 30.530624]
+      },
+      "properties": {
+        "station_num": "15",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "武昌火车站"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.308531, 30.533612]
+      },
+      "properties": {
+        "station_num": "16",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "首义路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.301349, 30.534307]
+      },
+      "properties": {
+        "station_num": "17",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "复兴路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.269012, 30.542917]
+      },
+      "properties": {
+        "station_num": "18",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "拦江路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.266158, 30.549283]
+      },
+      "properties": {
+        "station_num": "19",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "钟家村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.252849, 30.551732]
+      },
+      "properties": {
+        "station_num": "20",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "汉阳火车站"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.241105, 30.553977]
+      },
+      "properties": {
+        "station_num": "21",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "五里墩"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.231208, 30.556688]
+      },
+      "properties": {
+        "station_num": "22",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "七里庙"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.219444, 30.55932]
+      },
+      "properties": {
+        "station_num": "23",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "十里铺"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.210348, 30.562121]
+      },
+      "properties": {
+        "station_num": "24",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "王家湾"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.201403, 30.564519]
+      },
+      "properties": {
+        "station_num": "25",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "玉龙路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.188919, 30.566446]
+      },
+      "properties": {
+        "station_num": "26",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "永安堂"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.173992, 30.565151]
+      },
+      "properties": {
+        "station_num": "27",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "孟家铺"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.145387, 30.564055]
+      },
+      "properties": {
+        "station_num": "28",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "黄金口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.126339, 30.552199]
+      },
+      "properties": {
+        "station_num": "29",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "新天"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.112285, 30.550087]
+      },
+      "properties": {
+        "station_num": "30",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "集贤"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.091765, 30.556845]
+      },
+      "properties": {
+        "station_num": "31",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "知音"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.074791, 30.560522]
+      },
+      "properties": {
+        "station_num": "32",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "新农"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.060324, 30.563412]
+      },
+      "properties": {
+        "station_num": "33",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "凤凰路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.041735, 30.573054]
+      },
+      "properties": {
+        "station_num": "34",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "蔡甸广场"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.02859, 30.57179]
+      },
+      "properties": {
+        "station_num": "35",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "临嶂大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.009379, 30.579826]
+      },
+      "properties": {
+        "station_num": "36",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "新庙村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.994891, 30.582229]
+      },
+      "properties": {
+        "station_num": "37",
+        "line_name": "轨道交通4号线(武汉火车站--柏林)",
+        "station_name": "柏林"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.426897, 30.606713]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "武汉站东广场"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.434239, 30.611409]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "厂前"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.437232, 30.618931]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "武钢"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.425801, 30.631836]
+      },
+      "properties": {
+        "station_num": "4",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "工人村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.41955, 30.642611]
+      },
+      "properties": {
+        "station_num": "5",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "青宜居"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.401933, 30.639332]
+      },
+      "properties": {
+        "station_num": "6",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "红钢城"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.386836, 30.631463]
+      },
+      "properties": {
+        "station_num": "7",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "和平公园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.376403, 30.624951]
+      },
+      "properties": {
+        "station_num": "8",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "建设二路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.364928, 30.617733]
+      },
+      "properties": {
+        "station_num": "9",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "科普公园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.352171, 30.608032]
+      },
+      "properties": {
+        "station_num": "10",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "余家头"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.342932, 30.599653]
+      },
+      "properties": {
+        "station_num": "11",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "杨园铁四院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.333555, 30.590607]
+      },
+      "properties": {
+        "station_num": "12",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "徐家棚"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.325308, 30.58134]
+      },
+      "properties": {
+        "station_num": "13",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "三角路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.314532, 30.569462]
+      },
+      "properties": {
+        "station_num": "14",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "三层楼"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.308679, 30.561284]
+      },
+      "properties": {
+        "station_num": "15",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "积玉桥"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.305282, 30.554209]
+      },
+      "properties": {
+        "station_num": "16",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "昙华林武胜门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.302183, 30.546899]
+      },
+      "properties": {
+        "station_num": "17",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "司门口黄鹤楼"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.30138, 30.541015]
+      },
+      "properties": {
+        "station_num": "18",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "彭刘杨"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.301349, 30.534307]
+      },
+      "properties": {
+        "station_num": "19",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "复兴路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.300559, 30.520002]
+      },
+      "properties": {
+        "station_num": "20",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "八铺街"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.298485, 30.50899]
+      },
+      "properties": {
+        "station_num": "21",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "烽火村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.29331, 30.495453]
+      },
+      "properties": {
+        "station_num": "22",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "张家湾"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.293047, 30.478528]
+      },
+      "properties": {
+        "station_num": "23",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "光霞"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.293232, 30.468726]
+      },
+      "properties": {
+        "station_num": "24",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "白沙六路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.268778, 30.453717]
+      },
+      "properties": {
+        "station_num": "25",
+        "line_name": "轨道交通5号线(武汉站东广场--中医药大学)",
+        "station_name": "中医药大学"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.109439, 30.632773]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "新城十一路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.124796, 30.63305]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "码头潭公园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.136902, 30.634026]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "五环体育中心"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.153009, 30.633044]
+      },
+      "properties": {
+        "station_num": "4",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "二雅路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.167486, 30.634344]
+      },
+      "properties": {
+        "station_num": "5",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "海口三路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.180894, 30.636899]
+      },
+      "properties": {
+        "station_num": "6",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "金银湖公园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.204948, 30.639308]
+      },
+      "properties": {
+        "station_num": "7",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "金银湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.222603, 30.63799]
+      },
+      "properties": {
+        "station_num": "8",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "园博园北"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.234368, 30.639596]
+      },
+      "properties": {
+        "station_num": "9",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "轻工大学"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.243898, 30.640912]
+      },
+      "properties": {
+        "station_num": "10",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "常青花园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.261081, 30.635814]
+      },
+      "properties": {
+        "station_num": "11",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "杨汊湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.265265, 30.630637]
+      },
+      "properties": {
+        "station_num": "12",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "石桥"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.271276, 30.617653]
+      },
+      "properties": {
+        "station_num": "13",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "唐家墩"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.275743, 30.610324]
+      },
+      "properties": {
+        "station_num": "14",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "三眼桥"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.284769, 30.605235]
+      },
+      "properties": {
+        "station_num": "15",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "香港路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.289952, 30.598804]
+      },
+      "properties": {
+        "station_num": "16",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "苗栗路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.294034, 30.592756]
+      },
+      "properties": {
+        "station_num": "17",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "大智路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.290788, 30.579356]
+      },
+      "properties": {
+        "station_num": "18",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "江汉路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.28427, 30.574991]
+      },
+      "properties": {
+        "station_num": "19",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "六渡桥"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.274677, 30.571218]
+      },
+      "properties": {
+        "station_num": "20",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "汉正街"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.268958, 30.569459]
+      },
+      "properties": {
+        "station_num": "21",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "武胜路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.266282, 30.557559]
+      },
+      "properties": {
+        "station_num": "22",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "琴台"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.266158, 30.549283]
+      },
+      "properties": {
+        "station_num": "23",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "钟家村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.266799, 30.537882]
+      },
+      "properties": {
+        "station_num": "24",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "马鹦路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.259685, 30.526609]
+      },
+      "properties": {
+        "station_num": "25",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "建港"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.253366, 30.520144]
+      },
+      "properties": {
+        "station_num": "26",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "前进村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.242654, 30.510581]
+      },
+      "properties": {
+        "station_num": "27",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "国博中心北"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.236109, 30.506036]
+      },
+      "properties": {
+        "station_num": "28",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "国博中心南"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.225922, 30.49291]
+      },
+      "properties": {
+        "station_num": "29",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "老关村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.202216, 30.496388]
+      },
+      "properties": {
+        "station_num": "30",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "江城大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.179988, 30.495551]
+      },
+      "properties": {
+        "station_num": "31",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "车城东路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.16824, 30.499111]
+      },
+      "properties": {
+        "station_num": "32",
+        "line_name": "轨道交通6号线(新城十一路--东风公司)",
+        "station_name": "东风公司"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.334162, 30.318872]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "青龙山地铁小镇"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.324577, 30.344775]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "纸坊大街"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.323569, 30.3581]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "北华街"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.322041, 30.370536]
+      },
+      "properties": {
+        "station_num": "4",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "谭鑫培公园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.321746, 30.389156]
+      },
+      "properties": {
+        "station_num": "5",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "江夏客厅"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.320107, 30.412329]
+      },
+      "properties": {
+        "station_num": "6",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "大花岭"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.318411, 30.441596]
+      },
+      "properties": {
+        "station_num": "7",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "新路村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.319502, 30.460928]
+      },
+      "properties": {
+        "station_num": "8",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "野芷湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.313464, 30.474294]
+      },
+      "properties": {
+        "station_num": "9",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "板桥"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.313384, 30.483656]
+      },
+      "properties": {
+        "station_num": "10",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "湖工大"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.313759, 30.504025]
+      },
+      "properties": {
+        "station_num": "11",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "建安街"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.3142, 30.514908]
+      },
+      "properties": {
+        "station_num": "12",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "瑞安街"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.316654, 30.532465]
+      },
+      "properties": {
+        "station_num": "13",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "武昌火车站"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.318461, 30.545012]
+      },
+      "properties": {
+        "station_num": "14",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "小东门"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.317429, 30.552487]
+      },
+      "properties": {
+        "station_num": "15",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "螃蟹岬"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.317111, 30.56256]
+      },
+      "properties": {
+        "station_num": "16",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "新河街"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.32947, 30.577805]
+      },
+      "properties": {
+        "station_num": "17",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "湖北大学"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.332095, 30.588494]
+      },
+      "properties": {
+        "station_num": "18",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "徐家棚"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.301348, 30.598718]
+      },
+      "properties": {
+        "station_num": "19",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "三阳路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.284769, 30.605235]
+      },
+      "properties": {
+        "station_num": "20",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "香港路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.274655, 30.597634]
+      },
+      "properties": {
+        "station_num": "21",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "取水楼"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.261952, 30.593959]
+      },
+      "properties": {
+        "station_num": "22",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "王家墩东"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.246459, 30.595975]
+      },
+      "properties": {
+        "station_num": "23",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "武汉商务区"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.23479, 30.604632]
+      },
+      "properties": {
+        "station_num": "24",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "常码头"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.225873, 30.618327]
+      },
+      "properties": {
+        "station_num": "25",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "园博园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.223282, 30.636121]
+      },
+      "properties": {
+        "station_num": "26",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "园博园北"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.225407, 30.655554]
+      },
+      "properties": {
+        "station_num": "27",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "马池"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.237858, 30.699759]
+      },
+      "properties": {
+        "station_num": "28",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "汤云海路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.256459, 30.712764]
+      },
+      "properties": {
+        "station_num": "29",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "巨龙大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.259856, 30.727857]
+      },
+      "properties": {
+        "station_num": "30",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "腾龙大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.270219, 30.765499]
+      },
+      "properties": {
+        "station_num": "31",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "天阳大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.278307, 30.785735]
+      },
+      "properties": {
+        "station_num": "32",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "裕福路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.289753, 30.804287]
+      },
+      "properties": {
+        "station_num": "33",
+        "line_name": "轨道交通7号线(青龙山地铁小镇--横店)",
+        "station_name": "横店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.295024, 30.427348]
+      },
+      "properties": {
+        "station_num": "1",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "军运村"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.298049, 30.436741]
+      },
+      "properties": {
+        "station_num": "2",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "黄家湖地铁小镇"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.319289, 30.462059]
+      },
+      "properties": {
+        "station_num": "3",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "野芷湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.32504, 30.471754]
+      },
+      "properties": {
+        "station_num": "4",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "马湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.32593, 30.481813]
+      },
+      "properties": {
+        "station_num": "5",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "省农科院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.329907, 30.492006]
+      },
+      "properties": {
+        "station_num": "6",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "文昌路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.344308, 30.500276]
+      },
+      "properties": {
+        "station_num": "7",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "文治街"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.350368, 30.515495]
+      },
+      "properties": {
+        "station_num": "8",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "马房山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.352907, 30.525499]
+      },
+      "properties": {
+        "station_num": "9",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "街道口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.352367, 30.53561]
+      },
+      "properties": {
+        "station_num": "10",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "小洪山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.343812, 30.545492]
+      },
+      "properties": {
+        "station_num": "11",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "洪山路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.34609, 30.551456]
+      },
+      "properties": {
+        "station_num": "12",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "水果湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.357089, 30.556807]
+      },
+      "properties": {
+        "station_num": "13",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "中南医院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.365294, 30.564871]
+      },
+      "properties": {
+        "station_num": "14",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "省博湖北日报"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.370081, 30.574832]
+      },
+      "properties": {
+        "station_num": "15",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "梨园"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.361111, 30.576925]
+      },
+      "properties": {
+        "station_num": "16",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "岳家嘴"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.350076, 30.585167]
+      },
+      "properties": {
+        "station_num": "17",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "汪家墩"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.345634, 30.58842]
+      },
+      "properties": {
+        "station_num": "18",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "徐东"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.335961, 30.591941]
+      },
+      "properties": {
+        "station_num": "19",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "徐家棚"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.306624, 30.608447]
+      },
+      "properties": {
+        "station_num": "20",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "黄浦路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.297076, 30.617866]
+      },
+      "properties": {
+        "station_num": "21",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "赵家条"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.287104, 30.625318]
+      },
+      "properties": {
+        "station_num": "22",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "竹叶山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.281162, 30.639903]
+      },
+      "properties": {
+        "station_num": "23",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "中一路"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.280364, 30.652594]
+      },
+      "properties": {
+        "station_num": "24",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "塔子湖"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.280509, 30.669413]
+      },
+      "properties": {
+        "station_num": "25",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "宏图大道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.28404, 30.6772]
+      },
+      "properties": {
+        "station_num": "26",
+        "line_name": "轨道交通8号线(军运村--金潭路)",
+        "station_name": "金潭路"
+      }
+    }
+  ]
+}
